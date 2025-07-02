@@ -29,8 +29,8 @@ Um sistema simples de autenticação desenvolvido com Nuxt 3, Vue.js e TailwindC
 1. **Clone o repositório**
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/GustavoR1991/login.git
+cd login
 ```
 
 2. **Instale as dependências**
