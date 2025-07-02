@@ -1,6 +1,6 @@
 # Sistema de Login com Nuxt.js
 
-Um sistema simples de autenticação desenvolvido com Nuxt 3, Vue.js e TailwindCSS, utilizando localStorage para persistência de dados.
+Um sistema simples de autenticação desenvolvido com Nuxt 3, Vue.js, TailwindCSS e Shadcn/ui, utilizando localStorage para persistência de dados.
 
 ## 🚀 Funcionalidades
 
